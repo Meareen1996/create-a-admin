@@ -1,0 +1,6 @@
+1.下载：yarn add axios
+2.封装ajax请求模块：
+    1) api/ajax.js 
+3.
+import axios from 'axios'
+import {message} from 'antd'
